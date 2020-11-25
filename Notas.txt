@@ -1,0 +1,3 @@
+Arquitectura N Capas
+Entity Framework & Dapper
+Patrón Repositorio
